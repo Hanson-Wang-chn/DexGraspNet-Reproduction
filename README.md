@@ -56,3 +56,5 @@ The optimization loop runs for `num_iterations` iterations, minimizing the total
 
 Upon completion, the optimized parameters `T`, `R`, and `theta` are printed, representing the hand's configuration that minimizes the total energy. These values define the final position, orientation, and joint angles of the hand for stable object grasping.
 
+![alt text](image.png)
+
